@@ -40,4 +40,3 @@ This functional code allows you to do the following:
     "password" : "secret123"
 }
 ```
-# rolodex-api
