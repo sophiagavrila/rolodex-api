@@ -2,7 +2,9 @@
 This application is a Spiring Boot Proof of concept complete with a standard data, service, and controller layer plus AOP and some unit tests experimentally generated with Open AI's Chat GPT bot.
 
 ### `mvn spring-boot:run`
-To run the application
+To run the application - or you can build the docker image and run that! 🐳
+
+### Testing the API with Postman
 
 This functional code allows you to do the following:
 
