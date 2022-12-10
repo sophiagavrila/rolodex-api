@@ -1,3 +1,9 @@
+# Rolodex API
+This application is a Spiring Boot Proof of concept complete with a standard data, service, and controller layer plus AOP and some unit tests experimentally generated with Open AI's Chat GPT bot.
+
+### `mvn spring-boot:run`
+To run the application
+
 This functional code allows you to do the following:
 
 - Add a user to the H2 database at `http://localhost:5000/api/h2` by sending a POST request to this endpoint `http://localhost:5000/api/users/add`
